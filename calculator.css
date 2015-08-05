@@ -1,0 +1,30 @@
+body{
+	height: 100%;
+
+}
+table{
+	background-color: #230D63;
+	margin: auto;	
+	padding: 5px;
+}
+#result{
+	width: 180px;
+	height: 30px;
+	font-size: 18px;
+}
+.btn{
+	width: 34px;
+	height: 32px;
+	background-color: #AC93F5;
+	font-size: 16px;
+}
+.btn:hover{
+	background-color: #9F83F2;
+} 
+#equal{
+	width: 34px;
+	height: 66px;
+}
+#zero{
+	width: 72;
+	height: 32px;
